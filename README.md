@@ -75,3 +75,16 @@ lib/
 
 │ └── movies.json
 
+
+---
+
+## ⚙️ Langkah Menjalankan Aplikasi  
+
+### 1️⃣ Persiapan Lingkungan  
+Pastikan sudah menginstal:  
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)  
+- [Android Studio](https://developer.android.com/studio) atau VS Code  
+- [Git](https://git-scm.com/)  
+- Emulator Android atau perangkat fisik  
+
+Jalankan menggunakan emulator yang tersedia
