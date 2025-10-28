@@ -1,0 +1,185 @@
+{
+"movies": [
+    {
+    "id": 1,
+    "title": "Avengers: Infinity War",
+    "genre": "Action",
+    "language": "English",
+    "duration": "149 min",
+    "rating": 8.4,
+    "year": "2018",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/6/6/6/1/226661-avengers-infinity-war-0-2000-0-3000-crop.jpg?v=8b35f60c0c",
+    "director": "Joe Ruso",
+    "description": "Sementara Avengers dan sekutunya terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang tiran yang terkenal kejam di antara galaksi, tujuannya adalah mengumpulkan keenam Batu Keabadian, artefak dengan kekuatan tak terbayangkan, dan menggunakannya untuk memaksakan kehendaknya yang menyimpang pada seluruh realitas. Semua yang diperjuangkan Avengers telah mengarah ke momen ini - nasib Bumi dan keberadaannya sendiri tidak pernah setidak pasti ini."
+    },
+    {
+    "id": 2,
+    "title": "Superman",
+    "genre": "Action",
+    "language": "English",
+    "duration": "130 min",
+    "rating": 7.1,
+    "year": "2025",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/7/0/5/0/957050-superman-2025-0-2000-0-3000-crop.jpg?v=54e41a55ff",
+    "director": "James Gun",
+    "description": "Superman harus menyelaraskan warisan alien Kryptonnya dengan pendidikan manusianya sebagai reporter Clark Kent. Sebagai perwujudan kebenaran, keadilan, dan cara hidup manusia, ia segera menemukan dirinya di dunia yang menganggap semua itu kuno."
+    },
+    {
+    "id": 3,
+    "title": "Iron Man",
+    "genre": "Action",
+    "language": "English",
+    "duration": "126 min",
+    "rating": 7.9,
+    "year": "2008",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/5/50825-iron-man-0-2000-0-3000-crop.jpg?v=f03c15122c",
+    "director": "Jon Favreau",
+    "description": "Setelah ditawan di sebuah gua Afghanistan, insinyur miliarder Tony Stark menciptakan baju zirah bersenjata unik untuk melawan kejahatan."
+    },
+    {
+    "id": 4,
+    "title": "Top Gun: Maverick",
+    "genre": "Action",
+    "language": "English",
+    "duration": "131 min",
+    "rating": 8.2,
+    "year": "2022",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/9/3/4/6/5/293465-top-gun-maverick-0-2000-0-3000-crop.jpg?v=9f8af0f61b",
+    "director": "Joseph Kosinski",
+    "description": "Ceritanya melibatkan Maverick yang menghadapi masa lalunya saat melatih sekelompok lulusan Top Gun yang lebih muda, termasuk putra dari mendiang sahabatnya, untuk misi berbahaya."
+    },
+    {
+    "id": 5,
+    "title": "Mission: Impossible: The Final Reckoning",
+    "genre": "Action",
+    "language": "English",
+    "duration": "170 min",
+    "rating": 7.2,
+    "year": "2025",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/3/4/0/3/503403-mission-impossible-the-final-reckoning-0-2000-0-3000-crop.jpg?v=00eae3744d",
+    "director": "Christopher McQuarrie",
+    "description": "Hunt dan IMF mengejar AI berbahaya bernama Entity yang telah menyusup ke intelijen global. Di bawah pengawasan pemerintah dan tokoh dari masa lalunya, Hunt berlomba untuk menghentikannya agar tidak mengubah dunia selamanya."
+    },
+    {
+    "id": 6,
+    "title": "Jurassic Park",
+    "genre": "Adventure",
+    "language": "English",
+    "duration": "127 min",
+    "rating": 8.2,
+    "year": "1993",
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-2000-0-3000-crop.jpg?v=19a50874d0",
+    "director": "Stephen Spielberg",
+    "description": "Seorang industrialis mengundang beberapa pakar untuk mengunjungi taman hiburannya yang dipenuhi dinosaurus kloning. Setelah listrik padam, makhluk-makhluk itu berkeliaran bebas, membahayakan nyawa semua orang, termasuk cucu-cucunya."
+    },
+    {
+    "id": 7,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "genre": "Adventure",
+    "language": "English",
+    "duration": "143 min",
+    "rating": 8.1,
+    "year": "2003",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/5/2695-pirates-of-the-caribbean-the-curse-of-the-black-pearl-0-2000-0-3000-crop.jpg?v=272b36c0d8",
+    "director": "Gore Verbinski",
+    "description": "Pandai besi Will Turner bekerja sama dengan bajak laut eksentrik Kapten Jack Sparrow untuk menyelamatkan Elizabeth Swann, putri gubernur dan kekasihnya, dari mantan sekutu bajak laut Jack, yang sekarang sudah mati."
+    } ,
+    {
+    "id": 8,
+    "title": "Jumanji",
+    "genre": "Adventure",
+    "language": "English",
+    "duration": "104 min",
+    "rating": 7.1,
+    "year": "1995",
+    "poster": "https://a.ltrbxd.com/resized/sm/upload/7j/8o/rt/sd/8wBKXZNod4frLZjAKSDuAcQ2dEU-0-2000-0-3000-crop.jpg?v=09dbc5bbcb",
+    "director": "Joe Johnston",
+    "description": "Ketika Judy dan Peter, dua bersaudara, menemukan permainan papan ajaib yang membuka pintu menuju dunia magis, mereka tanpa sengaja mengundang Alan seorang dewasa yang telah terperangkap di dalamnya selama 26 tahun – ke ruang tamu mereka. Satu-satunya harapan Alan untuk bebas adalah menyelesaikan permainan tersebut, yang terbukti berisiko karena ketiganya harus berlari dari badak raksasa, monyet jahat, dan makhluk-makhluk mengerikan lainnya."
+    },
+    {
+    "id": 9,
+    "title": "Indiana Jones and the Dial of Destiny",
+    "genre": "Adventure",
+    "language": "English",
+    "duration": "155 min",
+    "rating": 6.5,
+    "year": "2023",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/3/265433-indiana-jones-and-the-dial-of-destiny-0-2000-0-3000-crop.jpg?v=34f4a02c6b",
+    "director": "James Mangold",
+    "description": "Memasuki era baru dan mendekati masa pensiun, Indy bergulat dengan dunia yang tampaknya telah berkembang pesat. Namun, ketika tentakel kejahatan yang terlalu familiar kembali dalam wujud rival lamanya, Indy harus mengenakan topinya dan mengangkat cambuknya sekali lagi untuk memastikan artefak kuno dan kuat itu tidak jatuh ke tangan yang salah."
+    },
+    {
+    "id": 10,
+    "title": "Maze Runner: The Death Cure",
+    "genre": "Adventure",
+    "language": "English",
+    "duration": "143 min",
+    "rating": 6.3,
+    "year": "2018",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/6/1/3/2/266132-maze-runner-the-death-cure-0-2000-0-3000-crop.jpg?v=ea8eaf5ae5   ",
+    "director": "Wes Ball",
+    "description": "Thomas memimpin kelompok Glader yang melarikan diri dalam misi terakhir dan paling berbahaya mereka. Untuk menyelamatkan teman-teman mereka, mereka harus menerobos masuk ke Last City yang legendaris, sebuah labirin yang dikendalikan WCKD yang mungkin akan menjadi labirin paling mematikan. Siapa pun yang berhasil keluar hidup-hidup akan mendapatkan jawaban atas pertanyaan-pertanyaan yang diajukan para Glader sejak pertama kali mereka tiba di labirin tersebut."
+    },
+{
+    "id": 11,
+    "title": "Nosferatu",
+    "genre": "Horror",
+    "language": "English",
+    "duration": "133 min",
+    "rating": 7.1,
+    "year": "2024",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/9/5/0/5/359505-nosferatu-2024-0-2000-0-3000-crop.jpg?v=a12d4ad648",
+    "director": "Robert Eggers",
+    "description": "Kisah gothic tentang obsesi antara seorang wanita muda yang dihantui oleh hantu dan vampir mengerikan yang tergila-gila padanya, yang menyebabkan kengerian tak terkira."
+    },
+    {
+    "id": 12,
+    "title": "The Conjuring",
+    "genre": "Horror",
+    "language": "English",
+    "duration": "112 min",
+    "rating": 7.5,
+    "year": "2013",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/6/2/6/2/106262-the-conjuring-0-2000-0-3000-crop.jpg?v=8cbb976912",
+    "director": "James Wan",
+    "description": "Penyelidik paranormal Ed dan Lorraine Warren bekerja untuk membantu sebuah keluarga yang diteror oleh kehadiran gelap di rumah pertanian mereka."
+    },
+    {
+    "id": 13,
+    "title": "World War Z",
+    "genre": "Horror",
+    "language": "English",
+    "duration": "116 min",
+    "rating": 7.0,
+    "year": "2013",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/7/2/9/2/57292-world-war-z-0-2000-0-3000-crop.jpg?v=9391f2d1b7",
+    "director": "Marc Forster",
+    "description": "Mantan pegawai Perserikatan Bangsa-Bangsa Gerry Lane menjelajahi dunia dalam perlombaan melawan waktu untuk menghentikan pandemi zombi yang menggulingkan tentara dan pemerintah serta mengancam menghancurkan umat manusia itu sendiri."
+    },
+{
+    "id": 14,
+    "title": "Up",
+    "genre": "Animation",
+    "language": "English",
+    "duration": "96 min",
+    "rating": 8.3,
+    "year": "2009",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/4/3/3/0/2/43302-up-0-2000-0-3000-crop.jpg?v=eac6a19a4c",
+    "director": "Pete Docter",
+    "description": "Seorang pria tua bernama Carl Fredricksen memenuhi impiannya untuk menjelajahi dunia dengan mengikat ribuan balon ke rumahnya dan terbang ke Amerika Selatan. Namun, dia tidak sendirian, karena seorang pengembara muda bernama Russell secara tidak sengaja ikut terbang bersamanya."
+    },
+    {
+    "id": 15,
+    "title": "The Pianist",
+    "genre": "Drama",
+    "language": "English",
+    "duration": "150 min",
+    "rating": 8.5,
+    "year": "2002",
+    "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/6/7/2/51672-the-pianist-0-2000-0-3000-crop.jpg?v=3eee5ac018",
+    "director": "Roman Polanski",
+    "description": "Seorang pianis Polandia bernama Władysław Szpilman berjuang untuk bertahan hidup selama Perang Dunia II di Warsawa yang diduduki Nazi."
+    }
+    
+]
+}
