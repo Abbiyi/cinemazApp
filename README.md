@@ -42,20 +42,36 @@ Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah **Pemrograman Mobi
 ## 🧩 Struktur Folder Proyek  
 
 lib/
+
 │
+
 ├── main.dart
+
 ├── theme/
+
 │ └── app_theme.dart
+
 ├── models/
+
 │ └── movie_model.dart
+
 ├── pages/
+
 │ ├── home_page.dart
+
 │ ├── all_movies_page.dart
+
 │ ├── favorite_page.dart
+
 │ ├── detail_page.dart
+
 │ └── profile_page.dart
+
 ├── widgets/
+
 │ └── movie_card.dart
+
 ├── data/
+
 │ └── movies.json
 
