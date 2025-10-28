@@ -1,9 +1,6 @@
 # 🎬 CINEMAZ  
 ### Flutter Movie Rating & Favorite App  
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
